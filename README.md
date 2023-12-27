@@ -5,8 +5,8 @@
 - **Linguagens de Programação:** HTML, CSS, JavaScript
 - **Tecnologias e Ferramentas:** Selenium Webdrive, Cypress.io, Postman API, Swagger API
 - **Metodologias Ágeis:**  Jira, Trello, Asana, Scrum e Kanban
-##
 
+##
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naiaraboroczky&layout=compact&langs_count=8&card_width=320" />
 </a>
