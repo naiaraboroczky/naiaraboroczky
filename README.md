@@ -1,6 +1,6 @@
  # Olá, sou Naiara Boroczky
 
- **QA com paixão por testes manuais e automatizados. Estou constantemente buscando aprender, evoluir e contribuir para a comunidade de desenvolvimento.**
+ **Sou uma QA apaixonada por novos desafios, estou sempre em busca de aprendizado, evolução e prontidão para contribuir com a equipe de forma significativa.**
 
 - **Linguagens de Programação:** HTML, CSS, JavaScript
 - **Tecnologias e Ferramentas:** Selenium Webdrive, Cypress.io, Postman API, Swagger API
